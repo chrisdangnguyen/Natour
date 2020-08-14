@@ -13,7 +13,6 @@
 
     border: none;
     cursor: pointer;
-
   }
 
   &:hover {
@@ -31,7 +30,6 @@
     outline: none;
     transform: translateY(-1px);
     box-shadow: 0 .5rem 1rem rgba($color-black, .2);
-
   }
 
   &--white {
@@ -70,7 +68,6 @@
     animation-fill-mode: backwards;
   }
 }
-
 
 .btn-text {
   &:link, &:visited {
